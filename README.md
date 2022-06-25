@@ -4,5 +4,5 @@
 
 ##### 1 - ADD EMAILS IN em.txt
 ##### 2 - ADD PASSWORDS IN pass.txt
-##### 3 - RUN : python3 neetflix2022.py
+##### 3 - RUN : python3 netflix2022.py
 ### Enjoy
